@@ -1,17 +1,21 @@
 :email: `mail@dharod.de`  |  :telephone_receiver:+49 176 35812089
-# Archit Dharod
+# Archit Dharod #
 
-## Current endeavour  
-**Bachelor's Degree in Mechatronics**  
-Specialization in Robotics and Automation  
-*Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)*  
-*since October 2019*
+<br>
 
 ## Skills & Tools ## 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,html,css,mysql,docker,figma,git,github)](https://skillicons.dev)
 - **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, HTML, CSS3, MySQL  
 -  **Version control:** GIT & GitHub
 - **Other tools:** Docker, Figma, Adobe Lightroom
+
+<br>
+
+## Current endeavour  
+**Bachelor's Degree in Mechatronics**  
+Specialization in Robotics and Automation  
+*Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)*  
+*since October 2019*
 
 ## Experience ##
 **Internship**  

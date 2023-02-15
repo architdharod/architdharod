@@ -12,12 +12,30 @@
 <br>
 
 ## Current endeavour  
-**Bachelor's Degree in Mechatronics**  
-Specialization in Robotics and Automation  
-*Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt (FHWS)*  
-*since October 2019*
+**Building beautiful & responsive websites**  
+...using TypeScript, ReactJS, HTML and CSS3. 
+<br>I am enthusiastic about emerging web development frameworks, such as Astro and Svelte, and their robust capabilities. Moreover, I am eager to acquire knowledge and proficiency in utilizing these frameworks.
 
 ## Experience ##
+
+**Junior Fullstack Web Developer**  
+*Pflanzmich GmbH - E-commerce*  
+*Hamburg, Germany*  
+*(since July 2022)*  
+
+- Successfully implemented an independent project for a telephone answering bot using TypeScript and the Asterisk-Node-ARI library. This automated a lot of the redundent tasks for the customer-service workforce.
+- Utilized nodejs and Express to create a REST-API interface that automates the retrieval of information for customers through both the website's live chat and an automated telephone bot.
+- Identified weaknesses/pain points in the user interface of the website and improved them while considering the best practices.
+<br>
+
+**Bachelor Thesis**  
+*ZF Friedrichshafen - Production Tech Center Robotics & Vision*  
+*Schweinfurt, Germany*  
+ *January 2022 - April 2022*  
+
+- Researched, tested and wrote the thesis on the topic of ROS based Autonomous Mobile Robot Navigation.
+<br>
+
 **Internship**  
 *ZF Friedrichshafen - Production Tech Center Robotics & Vision*  
 *Schweinfurt, Germany*  
@@ -30,22 +48,3 @@ Specialization in Robotics and Automation
 - Conceptualization of prototypes, designing (CAD) and implementation using additive manufacturing. 
 - Introduction to the Robot Operating System (ROS).
 <br>
-
-**Internship**  
-*Fehrmann GmbH - Metal foundry*  
-*Hamburg, Germany*  
-*January 2019 - March 2019*  
-
-- Primary metal forming, metal manufacturing processes, assembly, quality assurance.
-<br>
-
-**Student Assistant**  
-*Technische Universität Hamburg (TUHH)*  
-*Hamburg, Germany*  
-*October 2015 - April 2016*
-
-- Tutor for mathematics and technical mechanics.
-- Digitalization of scripts and solutions using LaTex.
----
-
-<sup>This format was inspired by stephencorwin on GitHub</sup>

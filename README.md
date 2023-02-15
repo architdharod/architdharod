@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,html,css,mysql,docker,figma,git,github)](https://skillicons.dev)
 - **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, HTML, CSS3, MySQL  
 -  **Version control:** GIT & GitHub
-- **Other tools:** Docker, Figma, Adobe Lightroom
+- **Other tools:** Docker, Figma
 
 <br>
 

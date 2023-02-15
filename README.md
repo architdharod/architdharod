@@ -23,8 +23,8 @@
 *Hamburg, Germany*  
 *(since July 2022)*  
 
-- Successfully implemented an independent project for a telephone answering bot using TypeScript and the Asterisk-Node-ARI library. This automated a lot of the redundent tasks for the customer-service workforce.
-- Utilized nodejs and Express to create a REST-API interface that automates the retrieval of information for customers through both the website's live chat and an automated telephone bot.
+- Successfully implemented an independent project for a telephone answering bot using TypeScript and the Asterisk-Node-ARI library. This application was Dockerized and hosted. This automated a lot of the redundent tasks for the customer-service workforce. 
+- Utilized nodejs and Express to create a REST-API interface that automates the retrieval of information for customers through both the website's live chat and an automated telephone bot. This too was Dockerized and hosted. 
 - Identified weaknesses/pain points in the user interface of the website and improved them while considering the best practices.
 <br>
 

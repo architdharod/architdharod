@@ -2,6 +2,8 @@
 # Archit Dharod #
 
 <br>
+Website: https://dharod.dev/
+<br>
 
 ## Skills & Tools ## 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,html,css,mysql,docker,figma,git,github,vite,webpack)](https://skillicons.dev)

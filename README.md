@@ -6,8 +6,8 @@ Website: https://dharod.dev/
 <br>
 
 ## Skills & Tools ## 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,html,css,mysql,docker,figma,git,github,vite,webpack)](https://skillicons.dev)
-- **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, HTML, CSS3, MySQL  
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,astro,html,css,mysql,docker,figma,git,github,vite,webpack)](https://skillicons.dev)
+- **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, Astro, HTML, CSS3, MySQL  
 -  **Version control:** GIT & GitHub
 - **Other tools:** Docker, Figma, Vite & Webpack
 

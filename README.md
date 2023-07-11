@@ -23,7 +23,7 @@ Website: https://dharod.dev/
 **Junior Fullstack Web Developer**  
 *Pflanzmich GmbH - E-commerce*  
 *Hamburg, Germany*  
-*(since July 2022)*  
+*July 2022 - July 2023*  
 
 - Successfully implemented an independent project for a telephone answering bot using TypeScript and the Asterisk-Node-ARI library. This application was Dockerized and hosted. This automated a lot of the redundent tasks for the customer-service workforce. 
 - Utilized nodejs and Express to create a REST-API interface that automates the retrieval of information for customers through both the website's live chat and an automated telephone bot. This too was Dockerized and hosted. 

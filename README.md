@@ -2,7 +2,7 @@
 # Archit Dharod #
 
 <br>
-Website: https://dharod.dev/
+Website: https://dharod.de/
 <br>
 
 ## Skills & Tools ## 

@@ -1,9 +1,6 @@
 :email: `mail@dharod.de`  |  :telephone_receiver:+49 176 35812089
 # Archit Dharod #
 
-<br>
-Website: https://dharod.de/
-<br>
 
 ## Skills & Tools ## 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,postgresql,astro,html,css,docker,vim)](https://skillicons.dev)

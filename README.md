@@ -12,7 +12,7 @@
 ## Current endeavour  
 **Building beautiful & responsive websites**  
 ...using TypeScript, ReactJS, HTML and CSS3. 
-<br>I am enthusiastic about emerging web development frameworks, such as Astro and Svelte, and their robust capabilities. Moreover, I am eager to acquire knowledge and proficiency in utilizing these frameworks.
+<br>I am enthusiastic about emerging web development frameworks, such as Astro, and their robust capabilities.
 
 ## Experience ##
 

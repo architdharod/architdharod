@@ -3,9 +3,9 @@
 
 
 ## Skills & Tools ## 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,postgresql,astro,html,css,docker,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nodejs,postgresql,astro,html,css,docker,neovim)](https://skillicons.dev)
 - **Programming languages and libraries:** TypeScript, ReactJS, Node.JS, postgresql, Astro, HTML, CSS3,   
-- **Other tools:** Docker, Vim (editor)
+- **Other tools:** Docker, NeoVim (editor)
 
 <br>
 

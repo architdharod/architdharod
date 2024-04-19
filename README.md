@@ -42,7 +42,5 @@
 - Programmed robots in various robot-specific programming languages, including Universal Robots.
 - Development and support in various human-robot collaboration applications.
 - Collision testing of lightweight robots for the verification of biomechanical threshold values, analogous to ISO/TS 15066.
-- Created a web interface for training internal staff on various robotics topics.
 - Conceptualization of prototypes, designing (CAD) and implementation using additive manufacturing. 
-- Introduction to the Robot Operating System (ROS).
 <br>
